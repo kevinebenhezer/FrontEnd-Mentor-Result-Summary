@@ -232,4 +232,5 @@ button {
 
 button:hover {
 	background-color: var(--clr-lightRoyalBlue);
+	cursor: pointer;
 }
